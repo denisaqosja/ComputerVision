@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# my ignores
+
+*.DS_Store
+.gitignore
+StructureFromMotion/StructureFromMotion.xcodeproj
+HarrisDetection/HarrisDetection.xcodeproj
+PanoramaStitching/PanoramaStitching.xcodeproj
